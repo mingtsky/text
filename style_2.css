@@ -1,0 +1,29 @@
+span,a{
+	margin-left: 2%;
+}
+strong{
+	margin-left: 6%;
+}
+.normal{
+	margin-left: 0px;
+}
+.p2{
+	margin-top: 20px;
+}
+a:visited{
+	color:rgb(68,114,238);
+}
+h1{
+	width:27%;
+	height: 900px;
+	float:left;
+	margin-right: 3%;
+	text-align: center;
+	background-color: rgb(101,164,250);
+	color: rgb(255,255,255); 
+	padding-top: 50px;
+}
+h2,p,div{
+	width: 70%;
+	float: right;
+}
