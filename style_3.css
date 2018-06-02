@@ -42,7 +42,7 @@ h1{
 	border-bottom: 4px solid white;
 }
 .one_p{
-	float: left;
+	float: right;
 	width: 83%;
 	height: 186px;
 	padding-bottom: 0px;
@@ -64,7 +64,7 @@ h1{
 	border-bottom: 4px solid white;
 }
 .two_p{
-	float: left;
+	float: right;
 	width: 83%;
 	height: 186px;
 	padding-bottom: 0px;
@@ -86,7 +86,7 @@ h1{
 	border-bottom: 4px solid white;
 }
 .three_p1{
-	float: left;
+	float: right;
 	width: 83%;
 	height: 50px;
 	padding-top: 10px;
@@ -95,7 +95,7 @@ h1{
 	margin: 0;
 }
 .three_p2{
-	float: left;
+	float: right;
 	width: 83%;
 	height: 136px;
 	padding-bottom: 0px;
@@ -116,7 +116,7 @@ h1{
 	border-bottom: 4px solid white;
 }
 .four_p1{
-	float: left;
+	float: right;
 	width: 83%;
 	height: 50px;
 	padding-top: 10px;
@@ -125,7 +125,7 @@ h1{
 	margin: 0;
 }
 .four_p2{
-	float: left;
+	float: right;
 	width: 83%;
 	height: 136px;
 	padding-bottom: 0px;
@@ -146,7 +146,7 @@ h1{
 	border-bottom: 4px solid white;
 }
 .five_p1{
-	float: left;
+	float: right;
 	width: 83%;
 	height: 50px;
 	padding-top: 10px;
@@ -155,7 +155,7 @@ h1{
 	margin: 0;
 }
 .five_p2{
-	float: left;
+	float: right;
 	width: 83%;
 	height: 136px;
 	padding-bottom: 0px;
